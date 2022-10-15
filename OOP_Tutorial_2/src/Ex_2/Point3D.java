@@ -1,4 +1,5 @@
-package Tutorial_2.Ex_2;
+package Ex_2;
+
 import java.lang.Math;
 
 public class Point3D {
