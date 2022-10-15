@@ -1,4 +1,4 @@
-package Tutorial_2.Ex_1;
+package Ex_1;
 
 public class Student {
     String ID;
@@ -49,8 +49,9 @@ public class Student {
     }
 
     public void display() {
-        System.out.println("Student ID : " + this.ID);
-        System.out.println("Student name : " + this.name);
+        System.out.println("Ex_1.Student ID : " + this.ID);
+        System.out.println("Ex_1.Student name : " + this.name);
         System.out.println("Average mark : " + this.avgMark);
     }
 }
+
